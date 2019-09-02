@@ -20,7 +20,7 @@ nav {
 }
 
 .nav:hover {
-    color: #92deb7;
+    color: #808080;
 }
 
 h1 {
@@ -78,7 +78,7 @@ html{height:100%,width:100%}
 
 /* Add a hover effect */
 .fa:hover {
-    background-color: #92deb7;
+    background-color: #808080;
     border: none;
 }
 
@@ -92,7 +92,7 @@ html{height:100%,width:100%}
     color: white;
 }
 
-.fa-github {
+.fa-instagram {
     background: transparent;
     color: white;
 }
@@ -118,7 +118,7 @@ html{height:100%,width:100%}
 }
 
 .projectsbutton:hover {
-    background-color: #92deb7;
+    background-color: #808080;
     border: none;
 }
 
