@@ -102,26 +102,6 @@ html{height:100%,width:100%}
     color: white;
 }
 
-.projectsbutton {
-    color: #fff;
-    border: 1px solid;
-    border-radius: 8px;
-    padding: 10px 20px;
-    min-width: 5.0em;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 20px;
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
-    cursor: pointer;
-    margin-top: 70px;
-    font-weight: 300;
-}
-
-.projectsbutton:hover {
-    background-color: #808080;
-    border: none;
-}
-
 .footer {
     position: absolute;
     right: 0;
