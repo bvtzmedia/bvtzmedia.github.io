@@ -33,17 +33,6 @@ h1 {
     margin: 0px;
 }
 
-h2 {
-    text-align: center;
-    color: lightgray;
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
-    font-size: 28px;
-    font-weight: 300;
-    line-height: 1.65;
-    padding: 0px;
-    margin-top: -10px;
-}
-
 body { 
     background-image: url('images/headerimage.JPG');
     margin: 0px;
@@ -102,7 +91,7 @@ html{height:100%,width:100%}
 }
 
 .footer {
-    position: fixed;
+    position: absolute;
     right: 0;
     bottom: 0;
     width: 100%;
